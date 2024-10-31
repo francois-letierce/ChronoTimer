@@ -1,0 +1,2 @@
+# ChronoTimer
+Simple C++ Timer
